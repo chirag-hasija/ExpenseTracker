@@ -1,4 +1,3 @@
-
 # Create your views here.
 # Import necessary libraries
 from django.shortcuts import render, redirect
